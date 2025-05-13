@@ -1,0 +1,19 @@
+img {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 340px;
+    height: 460px;
+    background-color: aliceblue;
+    border-radius: 12px;
+    text-align: center;
+    padding-top: 10px;
+    box-shadow: 2px 2px 5px;
+    
+}
